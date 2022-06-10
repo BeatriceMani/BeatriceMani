@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @BeatriceMani
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java at BloomTech
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
+Beatrice is a problem-solver and systems thinker who balances independent learning with community and collaboration. Determined to work with others to improve equity and access in the tech space. She brings lessons learned from ten years of classroom teaching celebrating the diverse strengths of students to her current work creating accessible technology for all. 
